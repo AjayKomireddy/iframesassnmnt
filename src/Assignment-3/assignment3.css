@@ -5,6 +5,9 @@
 width: 100%;
 height: 100%;
 }
+.wrap{
+    margin: 10px;
+}
 .container1{
     background-color: #F2F2F2;
     border: 2px solid;
@@ -17,8 +20,8 @@ height: 100%;
     background-color: #F2F2F2;
     border: 2px solid;
     width: 100%;
-    height: 40%;
-    margin-top: 40px;
+    height: 50%;
+    margin-top: 20px;
 }
 .upperh1{
     
@@ -37,17 +40,22 @@ height: 100%;
     margin: 20px;
 
 }
+.iframedict{
+    width: 500px;
+    margin-left: 590px;
+}
 #render-dictionry{
-    border: 2px solid;
-
-    margin-top: 10px;
+    border: 5px solid;
+   
+    margin-top: 100px;
 
 }
 button 
 {
-    height: 5vh;
-    width: 8vw;
-    font-size: 17px;
+    height: 10vh;
+    width: 10vw;
+    font-size: 20px;
     background-color: black;
     color: white;
+    border-radius: 5px;
 }
